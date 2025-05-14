@@ -1,0 +1,5 @@
+node_modules/
+.npm
+
+./nx/cache
+.nx/workspace-data
